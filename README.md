@@ -12,5 +12,5 @@ The goal of the project is to understand the reasoning process behind the predic
   
   (b) train_test_final.py:- create pairwise distance and generate 3 cluster using Agglomerative clustering for train-test-validation
   
-  (c) VGG-16 XAI approach: Pretrained VGG-16 was used and explnation produced for the model
+  (c) VGG-16 XAI apprach elephant.ipynb: Pretrained VGG-16 was used and explnation produced for the model
   

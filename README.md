@@ -7,3 +7,10 @@ The goal of the project is to understand the reasoning process behind the predic
 - Classification of different animals. Example: cats and dogs
 
 - Classifying individual animals of the same breed. Example: identifying individual Asian elephants
+
+  (a) Crop.py file is extract the head, tusk and trunk of the elephant
+  
+  (b) train_test_final.py:- create pairwise distance and generate 3 cluster using Agglomerative clustering for train-test-validation
+  
+  (c) VGG-16 XAI apprach elephant.ipynb: Pretrained VGG-16 was used and explnation produced for the model
+  
